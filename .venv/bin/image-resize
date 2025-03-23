@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/courtney/Documents/CSCC/Concepts of 3D Game Engines/Project1/.venv/bin/python" "$0" "$@"
+'''exec' "/home/courtney/Documents/CSCC/Concepts of 3D Game Engines/Project6/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
